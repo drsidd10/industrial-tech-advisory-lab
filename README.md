@@ -44,8 +44,6 @@ Each folder contains:
 
 4) Carve‑Out Dependency Mapper -- Graph‑based analysis of system and supplier entanglement in separations
 
-5) Patent & Architecture Moat Scorer -- Quantitative assessment of IP defensibility versus competitors
-
 ## About Me
 
 I’m Dr Siddharth Kulkarni (PhD, MBA, CMgr, CEng), a hobbyist decision science enthusiast exploring the intersection of mathematics, strategy, and technology. This lab reflects my work and interests at the intersection of industrial engineering, technology strategy, and investment decision‑making.
